@@ -1,6 +1,5 @@
-# Internship diary
-## First day
-### 22.05.2018
+## Internship diary
+### 22.05.2018: first day
 * getting started and organizing stuff
 * installing PyCharm, GitHub Desktop and Anaconda
 * successfully had lunch 
