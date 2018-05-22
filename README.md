@@ -4,7 +4,7 @@
 * installing PyCharm, GitHub Desktop and Anaconda
 * successfully had lunch 
 * learning a bit python with codecademy
-* explanation of the Project (L2C) by Bruno
+* explanation of the Project ("Law to Action") by Bruno
 * decided to work on machine learning this and also next week
 * researched machine learning and read an artical
 * still have to figure out the thing with the WLAN
