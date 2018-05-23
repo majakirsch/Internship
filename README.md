@@ -18,4 +18,4 @@
 * started with machine learning introduction and took notes
 * registrated for the Daimler Customer Speak on monday the 28th of May
 * started with "Working with Text Data" and getting stuck
-* 
+* after lunch worked on learning python -> it was better as yesterday and I'm much happier :)
