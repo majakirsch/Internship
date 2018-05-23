@@ -11,5 +11,11 @@
 * it's a good thing to make a clear plan what you want to do to get things done
 * getting stuck on codecademy (Functions and Lists)
 
---------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------
+### 23.05.2018
+* figured out how to use WLAN on the smartphone
+* started with machine learning introduction and took notes
+* registrated for the Daimler Customer Speak on monday the 28th of May
+* started with "Working with Text Data" and getting stuck
+* 
