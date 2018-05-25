@@ -33,3 +33,10 @@
 * cloned repository "ml-assets" and opened it kind of in jupyter notebook
 * installed mongo db and pymongo
 * connected my computer with the database 
+* went through the code of "All models training"
+* asked Vivek for help with the exercise bruno gave me
+* at a certain point of time your brain isn't able to absorb any more information
+* nevertheless I somehow understood what Vivek was showing me and I think it still needs time to settle
+* I believe I did good today
+* there is still a lot of stuff to learn
+* motto for the next week is: try, try try! Just do it! ;)
