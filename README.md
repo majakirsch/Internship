@@ -30,3 +30,4 @@
 * finished watching Josh Gorden
 * tried to get an overlook on outlook
 * learning how to get started with jupyter notebooks
+* cloned repository "ml-assets" and opened it kind of in jupyter notebook
