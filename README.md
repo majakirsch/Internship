@@ -10,6 +10,8 @@
 * still have to figure out the thing with the WLAN
 * it's a good thing to make a clear plan what you want to do to get things done
 * getting stuck on codecademy (Functions and Lists)
+
+
 --------------------------------------------------------------------------------------------------------------------
 ### 23.05.2018
 * figured out how to use WLAN on the smartphone
