@@ -54,7 +54,7 @@
 ### 29.05.17
 * task from yesterday finished: predict -> predict_proba
 
-before:
+_before:_
 ```python
 text = ["It is friday"]
 
@@ -63,12 +63,13 @@ print(mnb.predict(X_m))
 print(sgd.predict(X_m))
 print(svc.predict(X_m))
 ```
-outout:  
+output:  
 [ True]  
 [False]  
 [False]
 
-after:  
+
+_after:_  
 ```python
 text = ["It is friday"]
 
