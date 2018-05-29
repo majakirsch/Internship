@@ -40,3 +40,12 @@
 * I believe I did good today
 * there is still a lot of stuff to learn
 * motto for the next week is: try, try try! Just do it! ;)
+--------------------------------------------------------------------------------------------------------------------
+### 28.05.17
+* came late to the office because of my driver licens test 
+* got a task to solve from Bruno: instad of predict method and boolean, other method and interger
+* participated in the Customer Speak from Daimler
+  *
+--------------------------------------------------------------------------------------------------------------------
+### 29.05.17
+*
