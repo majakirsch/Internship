@@ -42,10 +42,12 @@
 * motto for the next week is: try, try try! Just do it! ;)
 --------------------------------------------------------------------------------------------------------------------
 ### 28.05.17
-* came late to the office because of my driver licens test 
-* got a task to solve from Bruno: instad of predict method and boolean, other method and interger
-* participated in the Customer Speak from Daimler
-  *
+* came late to the office because of my drivers license test 
+* got a task to solve from Bruno: instead of predict method and boolean, other method and interger
+* participated in the Customer Speak from Daimler: show how business can improve the world and how they use SAP technology to work more efficiently and stay competetive 
+* really showed me that big businesses have to rely on technologies that computer engineers develope
+* the speaker pointed out that they need to work on the relationship/bridge/connection between developers and users
+* work a little bit on the task after the talk
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
-*
+* 
