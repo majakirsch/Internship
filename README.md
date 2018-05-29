@@ -86,3 +86,7 @@ _output:_
 * loading models into a new notebook with joblib
 * creating a web application with flask so that 'my' models are accessible at all time and from everywhere
 * tried to start with flask and immediatly got stuck
+* problem was that Pycharm used a different Python and not the one from Anaconda so flask wasn't included
+* watched first video of a series of flask tutorials
+--------------------------------------------------------------------------------------------------------------------
+### 30.05.17
