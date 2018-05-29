@@ -48,6 +48,18 @@
 * really showed me that big businesses have to rely on technologies that computer engineers develope
 * the speaker pointed out that they need to work on the relationship/bridge/connection between developers and users
 * work a little bit on the task after the talk
+* task: how can we actually rank the documents? true and false don't show how relevant or irrelevant a document is
+* goal: an integer output that shows the relevance
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
-* API for beginners: https://www.youtube.com/watch?v=oBW_VNg4qD0
+* task from yesterday finished: predict -> predict_proba
+```python
+text = ["It is friday"]
+
+X_m = vect.transform(text)
+print(mnb.predict_proba(X_m))
+print(sgd.predict_proba(X_m))
+print(svc.predict_proba(X_m))
+```
+* loading models into a new notebook with joblib
+* creating a web application with flask so that 'my' models are accessible at all time and from everywhere
