@@ -61,5 +61,8 @@ print(mnb.predict_proba(X_m))
 print(sgd.predict_proba(X_m))
 print(svc.predict_proba(X_m))
 ```
+output: [[0.17656191 0.82343809]]
+        [[0.65355647 0.34644353]]
+        [[0.62920383 0.37079617]]
 * loading models into a new notebook with joblib
 * creating a web application with flask so that 'my' models are accessible at all time and from everywhere
