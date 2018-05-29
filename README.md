@@ -52,7 +52,8 @@
 * goal: an integer output that shows the relevance
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
-* task from yesterday finished: predict -> predict_proba  
+* task from yesterday finished: predict -> predict_proba
+
 before:
 ```python
 text = ["It is friday"]
@@ -62,6 +63,11 @@ print(mnb.predict(X_m))
 print(sgd.predict(X_m))
 print(svc.predict(X_m))
 ```
+outout:  
+[ True]  
+[False]  
+[False]
+
 after:  
 ```python
 text = ["It is friday"]
