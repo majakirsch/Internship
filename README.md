@@ -52,7 +52,8 @@
 * goal: an integer output that shows the relevance
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
-* task from yesterday finished: predict -> predict_proba
+* task from yesterday finished: predict -> predict_proba  
+before:
 ```python
 text = ["It is friday"]
 
@@ -61,7 +62,7 @@ print(mnb.predict(X_m))
 print(sgd.predict(X_m))
 print(svc.predict(X_m))
 ```
-
+after:  
 ```python
 text = ["It is friday"]
 
@@ -70,9 +71,9 @@ print(mnb.predict_proba(X_m))
 print(sgd.predict_proba(X_m))
 print(svc.predict_proba(X_m))
 ```
-output:
-[[0.17656191 0.82343809]]
-[[0.65355647 0.34644353]]
+output:  
+[[0.17656191 0.82343809]]  
+[[0.65355647 0.34644353]]  
 [[0.62920383 0.37079617]]
         
 * loading models into a new notebook with joblib
