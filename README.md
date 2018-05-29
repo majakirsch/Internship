@@ -53,7 +53,7 @@
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
 * task from yesterday finished: predict -> predict_proba
-before```python
+```python
 text = ["It is friday"]
 
 X_m = vect.transform(text)
@@ -62,7 +62,7 @@ print(sgd.predict(X_m))
 print(svc.predict(X_m))
 ```
 
-after```python
+```python
 text = ["It is friday"]
 
 X_m = vect.transform(text)
