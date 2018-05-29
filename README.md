@@ -50,4 +50,4 @@
 * work a little bit on the task after the talk
 --------------------------------------------------------------------------------------------------------------------
 ### 29.05.17
-* 
+* API for beginners: https://www.youtube.com/watch?v=oBW_VNg4qD0
