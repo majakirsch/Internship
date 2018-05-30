@@ -90,3 +90,10 @@ _output:_
 * watched first video of a series of flask tutorials
 --------------------------------------------------------------------------------------------------------------------
 ### 30.05.17
+* continued with flask
+* after yesterdays erros with the interpreter today the port made problems and also pycharm itself because it seems to have its own python and stopped code was still running
+* also making change was problematic
+* now I use a different port
+* the code is starting to look good and not everything I did was wrong :D
+* now my tasks to finish the code is in the code as comments
+* getting stuck at if statement: problem with checking if the variable is not None or empty
