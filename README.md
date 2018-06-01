@@ -99,4 +99,4 @@ _output:_
 * getting stuck at if statement: problem with checking if the variable is not None or empty
 --------------------------------------------------------------------------------------------------------------------
 ### 01.06.17
-* 
+* good python cheat sheet: https://github.com/wilfredinni/python-cheatsheet/blob/master/python_cheat_sheet.ipynb
