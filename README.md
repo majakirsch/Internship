@@ -97,3 +97,6 @@ _output:_
 * the code is starting to look good and not everything I did was wrong :D
 * now my tasks to finish the code is in the code as comments
 * getting stuck at if statement: problem with checking if the variable is not None or empty
+--------------------------------------------------------------------------------------------------------------------
+### 01.06.17
+* 
