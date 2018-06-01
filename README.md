@@ -108,4 +108,4 @@ _output:_
 * lastly we dicided that I could try to do one more task before I leave
 * trying to create a JSON file
 * want to work with "Postman" -> methods 'GET' and 'POST'
-
+* good page for learning things: https://www.w3schools.com/
