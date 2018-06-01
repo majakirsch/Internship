@@ -100,3 +100,12 @@ _output:_
 --------------------------------------------------------------------------------------------------------------------
 ### 01.06.17
 * good python cheat sheet: https://github.com/wilfredinni/python-cheatsheet/blob/master/python_cheat_sheet.ipynb
+* finish all my task and the webapplication now works
+* Bruno reviced what I've done in the two weeks and said that it was a lot and that he is proud of me
+* we visted Walldorf today and had lunch with Andre
+* there was a lot to discover in Walldorf
+* we visited the Inspiration Pavillion in Wdf 1, it was very cool
+* lastly we dicided that I could try to do one more task before I leave
+* trying to create a JSON file
+* want to work with "Postman" -> methods 'GET' and 'POST'
+
